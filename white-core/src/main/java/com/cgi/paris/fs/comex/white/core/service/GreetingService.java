@@ -14,7 +14,7 @@ public class GreetingService {
     }
 
     public void hello(final Greeting greeting) {
-        greeting.setMessage("Hello : " + greeting.getName());
+        greeting.setMessage("Hello " + greeting.getName());
     }
 
 }

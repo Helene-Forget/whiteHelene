@@ -1,0 +1,8 @@
+---
+Test
+---
+!2  on calcule la tVA pour differents pays
+
+|Compute Vat|
+|amount  |frenchvat ?|germanvat ?|
+|1000      |200|190|
